@@ -1,0 +1,10 @@
+# thepages.ru
+body {background-color:#f0d0b0;font-size:1.2em;font-family:sans-serif;}
+a {text-decoration:none; color:#007;}
+article, header {width:95%; max-width:1200px; min-width:320px; margin:auto; border:dotted 1px black; padding: 0.3em 1em 0.3em 1em; margin-top:1em; background-color:#f8e8c8;}
+img {max-width:100%}
+article a {border-bottom:dotted 2px #000000; color:#009;}
+.startend {text-align:center;font-size:150%;font-family:Tahoma;color:#700;}
+h1 {text-align:center; color:#800; text-shadow: 1px 1px 1px; font-size:185%;}
+h2 {text-align:center; color:#700;}
+code {font-size:1.3em;}
